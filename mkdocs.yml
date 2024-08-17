@@ -1,0 +1,9 @@
+site_name: tairaccession
+site_url: https://gauravcodepro.github.io/tairaccession
+theme: 
+  name: materia
+nav: 
+  - Home: index.md
+  - Verison: CHANGELOG.md
+  - Contribution: CONTRIBUTING.md
+  - Conduct: CONDUCT.md

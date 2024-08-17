@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "tairaccession"
+version = "0.1.0"
+description = "for using the tair and phytozome"
+authors = ["Gaurav Sablok"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.3"
+pygenomeviz = "^0.3.2"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
