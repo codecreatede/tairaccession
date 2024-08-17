@@ -21,7 +21,7 @@ print(tairaccession.__version__)
 ## License
 `tairaccession` was created by Gaurav Sablok, Universitat Potsdam, Germany. It is licensed under the terms of the MIT license.
 
-Gaurav 
+Gaurav Sablok
 
 ## Credits
 `tairaccession` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) 
